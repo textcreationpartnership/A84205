@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact narrative of the attempts made upon the Duke of Glocester. Being the extract of divers letters written out of France to persons of quality in England. And published for the satisfaction of all true Protestants.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84205</idno>
+            <idno type="STC">Wing E3664</idno>
+            <idno type="STC">Thomason E819_4</idno>
+            <idno type="STC">ESTC R201946</idno>
+            <idno type="EEBO-CITATION">99862425</idno>
+            <idno type="PROQUEST">99862425</idno>
+            <idno type="VID">114584</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84205)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114584)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 125:E820[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact narrative of the attempts made upon the Duke of Glocester. Being the extract of divers letters written out of France to persons of quality in England. And published for the satisfaction of all true Protestants.</title>
+               </titleStmt>
+               <extent>[2], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>and are sold by F. Eglesfield, at the Marygold in S. Pauls Church-yard.,</publisher>
+                  <pubPlace>London printed, :</pubPlace>
+                  <date>1655 [i.e. 1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Thomason received his copy 16 December 1654.</note>
+                  <note>Annotation on Thomason copy: "December 16"; the final '5' in the imprint date has been crossed out and replaced with a "4".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gloucester, Henry Stuart, --  Duke of, 1640-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114584:1" rendition="simple:additions"/>
+            <p>An Exact NARRATIVE OF THE ATTEMPTS Made upon the Duke of Gloceſter.</p>
+            <p>BEING The Extract of divers Letters written out of <hi>France</hi> to Perſons of Quality in <hi>England.</hi>
+            </p>
+            <p>AND Publiſhed for the ſatisfaction of all true Proteſtants.</p>
+            <p>
+               <hi>London</hi> Printed, and are ſold by <hi>F. Eglesfield,</hi> at the <hi>Marygold</hi> in <hi>S. Pauls</hi> Church-yard, 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:114584:2"/>
+            <pb n="11" facs="tcp:114584:2"/>
+            <head>A Narrative of an ill favoured attempt to pervert the Duke of <hi>Glo<g ref="char:EOLhyphen"/>ceſter,</hi> extracted out of divers letters from <hi>France.</hi>
+            </head>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <hi>Paris,</hi> 
+                     <date>
+                        <hi>Novem.</hi> 7. 1654.</date>
+                  </dateline>
+                  <salute>Sir,</salute>
+               </opener>
+               <p>THere are newly come to my notice ſome unto<g ref="char:EOLhyphen"/>ward paſſages, wherby one of our great Pledges hath been expoſed to the hazard of his Religion; which my Pen is very loth to impart, were it not for pre<g ref="char:EOLhyphen"/>vention, leſt being impoſſible to bee conceald in <hi>England,</hi> it might bee repreſented by others either more deſperate, or more faulty than yet it is in truth.</p>
+               <p>The King when hee went away from hence was over-in<g ref="char:EOLhyphen"/>treated by his mother to leave the Duke of <hi>Gloceſter</hi> with her, which to content her in ſome things, whom hee could not pleaſe in divers others, he conſented to grant her that re<g ref="char:EOLhyphen"/>queſt, upon promiſe that ſhe would not force him to change his Religion, and ſo conditions of liberty of prayers, &amp;c. were eſtabliſhed. But of late they doe ſome ſayby the French Courts inſtigation) preſſe it very hard, and even profeſſe an attempt of it. Mr. <hi>Mountagu</hi> Lord <hi>Abbot</hi> of <hi>Nanteul &amp;c</hi>) and his Inſtruments have gotten him, under pretence of weaning him from young French gallants company (that on occaſi<g ref="char:EOLhyphen"/>on of being in the ſame Academic were indeed grown but too kinde to him) to <hi>Pomoſſe,</hi> and after a weeks ſtay there, his Tutor comming on buſineſſe to <hi>Paris</hi> for one night, (whe<g ref="char:EOLhyphen"/>ther they had deſigned this abſence of his, or onely did make uſe of it, I cannot tell) they all ſet upon him with motives Spirituall and Temporall to become a Roman Ca<g ref="char:EOLhyphen"/>tholike; the Spirituall ones ſuch as the ſubject would af<g ref="char:EOLhyphen"/>ford,
+<pb n="12" facs="tcp:114584:3"/>little and many; more truſting on number than weight, he and (his only help then) Mr. <hi>Griffin,</hi> anſwered with the beſt skill they had, and with much more reſolution and metall both of them than you can imagine: and rejected the Temporall ones with contempt, and with the danger of in<g ref="char:EOLhyphen"/>curring the Kings diſpleaſure, who had both given him a charge, and engaged his Mother, that there ſhould bee no change in Religion laboured for. But to both the Duke added a complaint, that they ſhould offer to aſſault him, with either of thoſe conſiderations in the abſence of his Tutor, who was fitteſt to judge of their propoſalls.</p>
+               <p>When hee came therefore the ſhock was renew'd, and ſuſtained ſo firmly, that the ſtay at <hi>Pontoyſe</hi> was ſooner en<g ref="char:EOLhyphen"/>ded than wee hoped for. To our great content we ſee our young Prince again frequent and conſtant at the ſame devo<g ref="char:EOLhyphen"/>tions with us, but complaining much hee ſhould bee trou<g ref="char:EOLhyphen"/>bled by his Fathers and Brothers ſubjects, eſpecially to be<g ref="char:EOLhyphen"/>come of another Religion, than they and his conſcience di<g ref="char:EOLhyphen"/>rected him to keepe to.</p>
+               <p>But the Queene now muſt appeare to own the thing, and to profeſs that ſhe cannot but labour to have her ſon ſhew'd the right way to Heaven; and though ſhee promiſed hee ſhould not bee forced by her, yet to have that way propoſed to him ſhee found requiſite: and ſince Mr. <hi>Lovell</hi> (his Tutor) had expreſſed hee could not, nor muſt not ſee him ſo aſ<g ref="char:EOLhyphen"/>ſaulted, and therefore preſſ'd the forbearance of ſuch diſ<g ref="char:EOLhyphen"/>courſes in the Dukes preſence, being ready to ſatisfie any one himſelfe; ſhe would put him into another Governors hands, for a while at leaſt, and ſo under Mr. <hi>Mountagus</hi> wing hee is carried to Mr. <hi>Crofts</hi> houſe, being contrary to his owne earneſt entreaty hurried away on Saturday, and not ſuffer'd to ſtay till Monday, though he pleaded hard for it upon want of a warme coat, and there he muſt tarry till Monday ſeven<g ref="char:EOLhyphen"/>night
+<pb n="9" facs="tcp:114584:3"/>after. Meanwhile no body with him that might help his reſolution ſave Mr. <hi>Griffin</hi> of his Bed-chamber: a yong Gentleman, though an old ſervant of his (once my Lord of <hi>Mancheſters</hi> Page) who is indeed zealous againſt their deſign, even with reſolution to quit the ſervice, if any change ſhould happen; but his yeares and breeding make him not invincible as to himſelf, and if hee yield any conſiderable aſſiſtance to his Maſter, muſt bee left behind too, the next remoove at leaſt.</p>
+               <p>They have ſent notice of theſe ſtraights to the King and Duke of <hi>Yorke</hi> long ſince, but t'is carefully provided that the Duke of <hi>Yorke</hi> muſt not come home yet, and when he does prepare to come, if they cannot find themſelves Conque<g ref="char:EOLhyphen"/>rors and ſecure, they will (rather than hazard the loſs of this Prey) not ſcruple to encloyſtre him from any Heretikes view whatſoever.</p>
+               <p>In ſuch a caſe as this, you cannot preſume enough of the zeale and indignation the little Prince ha's againſt his Uſage heere, againſt the wrong done him by the Councell that left him in ſuch dangerous hands, againſt every obtruded Servant of that pack about him, againſt his new Governor, himſelf croſſing him in divers things, even of leſſer moment, as if hee were the only Engliſh, whom experience hath taught, how narrowly men ought to watch againſt Uſurpa<g ref="char:EOLhyphen"/>tion; in fine, hee apprehends his danger ſeriouſly, and the honour of reſiſting moſt nobly and heroically, both for re<g ref="char:EOLhyphen"/>ſolution of Endeavour, and for confidence of Succeſſe: that and the odds of the cauſe, and Gods power to perfect praiſe <hi>ex ore infantium,</hi> is almoſt the only hopes we have.</p>
+               <p>Let us have yours, and all good Proteſtants Prayers for this Confeſſor, who as he ſees (unmov'd) an evident want of all things fit for a Gentleman of better ſort, ſlighted of the French Court, his Mothers Frowne and endleſs impor<g ref="char:EOLhyphen"/>tunity
+<pb n="10" facs="tcp:114584:4"/>before him, if hee be not perverted: So I doubt not is now under the <hi>Mew-Diſcipline,</hi> and the <hi>Manage</hi> of their Spirituall, or rather Eccleſiaſticall <hi>Faulconers,</hi> who will not ever ceaſe <hi>watching</hi> &amp; <hi>dieting,</hi> &amp;c. and whatever elſe is neceſ<g ref="char:EOLhyphen"/>ſary to bring this <hi>yong Eaglet</hi> to <hi>ſtoop</hi> and <hi>vaile,</hi> and to do all things at their <hi>Lewre,</hi> even to take <hi>Hood</hi> too, if need bee. For they that make ſuch a Court-worke of every little childes, and diſcontented debauch'd ſervants converſion, will ſpare none of their little or great Arts to get this Noble <hi>Bird</hi> of ſo Royall a <hi>Wing,</hi> as being the only one of that <hi>Airay</hi> they hope for now, having loſt ſo much pains on the two former, and ſo fit to <hi>awe</hi> and <hi>dare</hi> leſſer Birds by; of which there are Wagers layd of no few or mean ones already.</p>
+               <p>I foreſaw this unmeaſur'd excurſion before hand, and was therefore ſo loth to write at all: and the truth is, I can neither <hi>ſcribere,</hi> nor <hi>nonſcribere,</hi> til this <hi>Criſis</hi> be over Though I foreſee what news this will be in <hi>Gath,</hi> furniſhing the Par<g ref="char:EOLhyphen"/>liament with a ready anſwer, when the next bold man asks, What have the poor Gentlemen done abroad? And there are ſagacious ſouls that would never underſtand till now the reaſon why the Parliament decreed to ſend him abroad, ere he was out-grown the danger of perverſion. But certainly they that pretend to have true Proteſtant hearts, and will for either fear or love of money, ſuffer the <hi>Defenders of their Faith,</hi> to be <hi>led into</hi> the <hi>Wilderneſs</hi> of want, and prepare them with <hi>hunger</hi> for the <hi>Divels temptations</hi> of <hi>Turning</hi> any <hi>ſtone</hi> to get <hi>Bread,</hi> doe deſerve the laſh of perſecution, which in time may juſtly light upon them, if God and they doe not timely prevent it.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <hi>Paris,</hi> 
+                     <date>25. <hi>Novemb.</hi> 1654.</date>
+                  </dateline>
+               </opener>
+               <p>By former Letters you may perceive how they prevailed with the Queene to take the Duke out of his Tutors hands, hurrying him firſt to <hi>Pontoyſe,</hi> and then to Mr. <hi>Crofts</hi> houſe.
+<pb n="15" facs="tcp:114584:4"/>During which, as fully as they poſſeſs'd him, every houre and much leſs parts of the day, one or other of the <hi>Bees</hi> ever humming about him; yet at night hee had one that lay in his Bed-chamber, who entertain'd him more to his hearts deſire, and (like <hi>Penelope's Web</hi>) unſpun (as well as they could two little yong things ſome few years above thirty between them) what ever had paſt in publique, or the day before.</p>
+               <p>And indeed they did well to ſpend and improve their nights in this manner; for when once they were up (as his Grandfather ſaid of my Lord of <hi>Carliſte,</hi> he was in perpetuall torments, Eatings, Huntings, Dancings, Viſits, Journeys, En<g ref="char:EOLhyphen"/>tertainments of Males and Females; ſo) our little Duke was continually tortur'd with Arguments finely imbeliſh'd with, True Church, Roman Catholick Church; To be of the King of <hi>France,</hi> his Mothers Religion: Being made a Cardinall, To become that King which muſt reſtore what <hi>Henry</hi> 8. took away, and the appendices.</p>
+               <p>However he was not ſo ſtrictly lookt unto at firſt, but that there might bee now and then ſtolen into his hand a Con<g ref="char:EOLhyphen"/>fortatory Letter from his Friends at <hi>Paris;</hi> but theſe ſhifts were to laſt but for a while: A terrible Ferule was poliſh'd for him, and ſuch a one, as the a we of it kept him from flat rejecting and affronting his new Governor <hi>Mountagu,</hi> leſt he being throughly vex'd, might reſigne him up into the Je<g ref="char:EOLhyphen"/>ſuits hands; to whoſe College the Duke knew himſelfe deſtin'd within few dayes, even by Violence it ſelfe, it relief came not from <hi>Germany.</hi>
+               </p>
+               <p>And now when all his ſtock of Replies (which my Friend tels me, were hugely ingenious, and indeed ſolid, ſuch as one would ſay, could not bee in thoſe yeares but <hi>Ex traduce</hi>) were ſpent, and his laſt refuge of peremptory ſilence, and upbraiding them for preſſing their Sophiſmes on ſuch a one as he was, while the Deane his Tutor and friends were de<g ref="char:EOLhyphen"/>clin'd
+<pb n="16" facs="tcp:114584:5"/>baſely, grew ſtale helps, behold a grave friend of his Fathers, Sir <hi>G. R.</hi> comes with a Letter in his pocket from the King; and was indeed admitted to ſee him, and talke with him before witneſs, but ſo far from poſſibility of priva<g ref="char:EOLhyphen"/>cy, that hee was faine to leave the Letter behind him to bee conveyed at an opportuner occaſion into his hand. That Letter, ſaies my Intelligencer, begins and ends ſo Brother<g ref="char:EOLhyphen"/>like, ſo Chriſtian-like, ſo King-like, that hee hath ſet my longing on fire to hear it: 'tis promis'd me I ſhall, and when I doe, I ſhall be carefull to preſent you with that Jewell.</p>
+               <p>It puts him in minde of the ſtrict command hee left with him at parting; of the monſtrous injury to his conſcience; to his ſtate; to his Family; the vanity of their Motives, the emptineſs of their promiſes; the more Eligibleneſs of any degree of ſuffering; Gods promiſes, whoſe love he muſt rec<g ref="char:EOLhyphen"/>kon to loſe as well as his ſo loving a Brothers, if he were per<g ref="char:EOLhyphen"/>verted by any inticings whatſoever: And to make all he ſaid more valuable; that he would reflect on their dead Fathers laſt charge, which he ſolemnly gave him, with the entaile of his bleſſing annexed.</p>
+               <p>In fine, he cloſed his inſtructions with that which would have been ſevere enough alone; That if he either chang'd his Religion, or put himſelfe into the <hi>Jeſuites</hi> College, he had the laſt letter from him, and muſt never look to ſee <hi>Eng<g ref="char:EOLhyphen"/>land</hi> or his Face again: And that if (which God forbid) their buſineſs miſcarried, the whole ruining of their Familie, and all the Nations too, muſt lay the miſchiefe at his doore as the great Cauſe of it.</p>
+               <p>Now no ſooner had he read this Threatning Comforter, but he hugg'd it in his Boſome, and with all poſſible ſpeed tranſcrib'd a Copie of it for his Mother, ſending it forthwith to her; and begging her leave to come to <hi>Paris,</hi> both upon thoſe commands of the King, and upon the newes of his
+<pb n="13" facs="tcp:114584:5"/>Brothers being come from the Army. Of this the Anſwer was, ſhe could not ceaſe wiſhing his ſo great and eternall good; but ſhe would not force him; but wiſh'd him to hearken to what Mr. <hi>Mountagu</hi> ſhould further deliver unto him: &amp; that was, that he would bee willing to go to the <hi>Jeſuites</hi> College however, where hee ſhould have ſtrange freedome in every thing. But all would not perſwade on the one ſide, nor ſecure on the other, till moſt welcomely about ten dayes ſince, my Lord of <hi>Ormond</hi> came from <hi>Germanie</hi> with letters, and inſtru<g ref="char:EOLhyphen"/>ctions to boot; to ſecond with a duplicate, and new Charges by word of mouth, the force of the former Letters. His bu<g ref="char:EOLhyphen"/>ſineſs (namely, the ſetting free of this yong Prince,) was of high concernment, elſe ſo great a perſon would never have been ſpar'd from his Maſter at ſuch a time, in ſo ill a ſeaſon of weather, to take ſo long and dangerous a Voyage, juſt up<g ref="char:EOLhyphen"/>on the diſſolving of the Armies, who had beſet all wayes, and robb'd all Convoyes; and had he ſtaid but foure dayes longer, he might as well have ſtaid foure years, it would then have been too late to have done any good.</p>
+               <p>But now the Duke is return'd to his old Prayers, and to old Faces, to whom he tels ſuch Stories of his Adventures, as (he ſayes) has made him almoſt mad. But others ſay, have made him much wiſer then a longer time and better Tutor could eaſily have done.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Nov.</hi> 28.</date>
+                  </dateline>
+               </opener>
+               <p>Since the Dukes return to the <hi>Palais-Royal,</hi> his Bro<g ref="char:EOLhyphen"/>thers company, and the exerciſe of his own Religion, he has met with many aſſaults: obedience to his Mother in all things poſſible, engaged him not to refuſe whom ſhe ſet o<g ref="char:EOLhyphen"/>ver him and ſent about him; and though ſhe has promiſed him ſome reſpit for a while at leaſt, in reſpect to his Bro<g ref="char:EOLhyphen"/>thers ſtraight charge, yet ſhe findes enow that purſue a truceleſs warre. How he anſwers all their Varietie of ſmooth
+<pb n="14" facs="tcp:114584:6"/>and ſharp Aſſaults, tis very prety to heare, and did not the Poſts interruption give me ſuſpition that our Letters keep not their daies to you, no more than yours to us, I ſhould ſend you conſtantly the proceedings in the buſineſs.</p>
+               <p>But if there be not ſtrange unnaturall carriage uſed, we ſhall enjoy his Concurrence in Communion with us as we do every day, and which will moſt vex them, on Sunday next at Church at the Reſidents houſe: which he is reſolv'd ſhall not be neglected or omitted upon any perſwaſion what<g ref="char:EOLhyphen"/>ſoever: though that be not in the number of thoſe things which he is fortified for by the Kings Letter. For he has a ſerious indignation againſt them that have with ſo many wiles hindred him (indeed by plain moral Violence, which no entreaty, no policy of his could either prevent or mollifie) ſo many Sundayes from <hi>Paris;</hi> and at the Reports which were begotten betweene lying tongues and credulous cares, that he was already turn'd, upon no other ground of his giving, but bare being away from Church; which could no way be effected but by hurrying him out of Towne; nor could that be obtained of him without eſtabliſhing a new Governour upon him, which thing ſo indirectly trenching on Religion, he could not have refuſed without diſobeying his Mother: Yet the advantage of that, as it was really great againſt the poore Youth, produc'd ſo great a pledge to the Roman party, that the Curates in divers Churches gave thanks for his Reconciliation a Sunday or two agone; So that they will be now expoſed to diſrepute of their Pariſhio<g ref="char:EOLhyphen"/>ners, and mockerie of the adverſary, the firſt Sunday of their ſuppoſed Proſelytes appearing at our Church, which is like<g ref="char:EOLhyphen"/>ly to kindle no ſmall wrath amongſt them, and therefore we ſtand in feare of ſome ſhrew'd <hi>Criſis</hi> between this and Sun<g ref="char:EOLhyphen"/>day morning as neere as it is: I doe not meane of hazard, but of greater violence of aſſault.</p>
+               <pb n="9" facs="tcp:114584:6"/>
+               <p>He has been on his Viſit at the <hi>Louvre,</hi> and paſt thoſe pikes already: though both Queen and Cardinal joyntly, and both ſeverally, have preſſed him, that hee is now to obey his Mother ſince his Father death; and they cannot finde any occaſion he ſhould have to regard other directions. Here hee thought hee had moſt need of his Bro<g ref="char:EOLhyphen"/>thers Letter, which enjoyn'd him ſilence to any diſputes: But manners would not ſuffer him to ſay nothing, and much leſs to ſay what he could have done, of the inconvenience of preferring Mothers commands before his Soveraignes: But it would have been too hot; and therefore glad he was to come off that brunt, with a general promiſe of dutifulneſs to his Mother as much as any Son in the world could or ought to uſe; and a proteſtation that it was ever a thing abhorr'd of him to harken to any Counſell to the contrary. And beſides that the very getting off was a Triumph, he made great prize of their promiſe, that it was but for his greater good, and the advantage they ſhould have of high<g ref="char:EOLhyphen"/>lyer doing him good, that they look'd upon the hopes of his change of Religion; they knew however that they ought to look on him as a Childe of <hi>France,</hi> of whatſoever religi<g ref="char:EOLhyphen"/>on he was.</p>
+               <p>There was beſides, a paſſage which hee was not very free of relating, yet it came out; that there had beene a promiſe betweene the Crownes <hi>articled upon at the Marriage-Treaty of his Father and Mother,</hi> that the Queen ſhould have the bring<g ref="char:EOLhyphen"/>ing up of all the children till twelve years of age, in lieu and compenſation of which being ſo notoriouſly violated, it was but reaſon and great condeſcention, that the third Son ſhould be intirely committed to her diſpoſall, eſpecially ſhe being in <hi>France.</hi> You will eaſily grant it out of the Sphere of his Age to reply to ſuch high aſſaults: it was highly enough for his honor that hee was thought fit to bee ſo pleaded with; but that it wrought not with him, is a ſigne of
+<pb n="10" facs="tcp:114584:7"/>Gods great vigilancy over him, and a Pledge that hee ha's a Bleſſing for him.</p>
+               <p>In fine, all theſe Addreſſes abroad, and other renew'd at home, gave ſuch a teſtimony of his firmneſs, that the Queen on Saturday morning tooke him apart from all his and her Servants, and very ſeriouſly bemoan'd her caſe with his too, in that the earneſt deſire of his and the whole Families good met with ſuch difficulties, as ſhould put her to uſe ſuch ſe<g ref="char:EOLhyphen"/>verity with him. Shee could not but pity him, as wearied already with ſo many perſwaſions; and truly the tender affection ſhe ever had for him, and had conſtantly ſhew'd to him, could not but make her ſelfe weary of ſuch tedious courſes: Therefore ſhe was reſolv'd to make a ſudden end; and for that cauſe charg'd him to retire himſelfe, and give one hearing more to Mr. <hi>Mountagu,</hi> and afterwards to lay her and his words ſeriouſly to his heart, and bring her an anſwer full and finall ere night. What the particular Pro<g ref="char:EOLhyphen"/>poſals ſhe made were, may come out hereafter: At the firſt appearance of this intended privacy with him, hee very dex<g ref="char:EOLhyphen"/>terouſly contrived an opportunity to ſpeake to his Servant <hi>Griffin,</hi> to ſeek out my Lord of <hi>Ormond</hi> to be ready to ſpeake with him, by then he might come from his Mother; which is a fair <hi>Omen:</hi> But the Poſt muſt not be preſum'd on, &amp;c.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Decemb.</hi> 2.</date>
+                  </dateline>
+               </opener>
+               <p>You were left I think at the ſtate of things on Saturday morning, and was come to the charge the Queen had given him to attend her alone. The Duke had in the little Interim of clearing the room, ſent <hi>Griffin</hi> for my Lord of <hi>Ormond</hi> pre<g ref="char:EOLhyphen"/>ſently to be with him, or at leaſt ſo ſoone as the Queen had done: And it was but Propheticall Providence; for the Queens buſineſs was of ſo great import as might require it well. She began with all ſweetneſs poſſible, repeated the ma<g ref="char:EOLhyphen"/>nifeſt ſignes of her great and tender affection for him, and
+<pb n="11" facs="tcp:114584:7"/>how much it griev'd her that that very love it ſelfe ſhould compell her to proceed now with ſuch ſeeming ſeverity: She preſum'd he was weary of it, and truly ſo was ſhee too, therefore for his eaſe ſake, ſhee would ſhorten his Time of Triall; and therefore propoſing all the good ſhe aym'd at in this deſigne of hers, and the Duty hee owed her, and the diſability of the King to maintaine him, &amp;c. She wiſh'd him to withdraw preſently, and ſequeſtring himſelfe from any diverſion after he had given Mr. <hi>Mountagu</hi> the hearing, for a while to ponder ſeriouſly what ſhee and hee had ſaid, and bring her his finall anſwer ere night.</p>
+               <p>The Duke obey'd; for reply then he muſt not: Goes to his Chamber; Mr. <hi>Mountagu</hi> comes, preſſes, is refuſed: but after an houres Diſcourſe, retires, begs to be ſent for againe when my Lord of <hi>Ormond</hi> was come, within an houre; if not, hee muſt come of himſelfe. But my Lord of <hi>Ormond</hi> comes, no <hi>Mountagu</hi> ſent for, or comes for two houres. The Marqueſs and the Duke ſoone reſolv'd what ſhould bee an<g ref="char:EOLhyphen"/>ſwered: ſpent the time onely in ordering circumſtances for the manner.</p>
+               <p>After theſe three Diſcourſes, it was time for a yong Prince to have a little breath, and therefore hee retires to a Lady's Chamber on the other ſide, where he might give his eares a little eaſe, and if he muſt heare more, that it might bee leſſe materiall diſcourſe, therefore chooſes one that would beat no more upon that Theme. No ſooner is hee gone, but Mr. <hi>Mountague</hi> comes, miſſes him, hunts up and downe for him, chides him for being off his ſtation of penſiveneſſe, for not having ſent for him.</p>
+               <p>
+                  <hi>Well Sir</hi> ſayes the Duke, <hi>my Task is done, I have reſolv'd: what did my Mother bid more? there is time enough to tell.</hi> And ſo it was, as it prov'd to be; for the anſwer was ſuch, that the en<g ref="char:EOLhyphen"/>tertainment it had, was <hi>a charge to ſee her face no more.</hi> Which
+<pb n="12" facs="tcp:114584:8"/>Sentence was no ſooner pronounc'd, but executed by French haſte: Out he muſt; and then hee that had nothing but a<g ref="char:EOLhyphen"/>mazement to reply with, had now a Cue to ſpeake on, and beg the parting Bleſſing at leaſt, till hee could prevaile for her pardon. It will not bee; Out hee muſt; and ſo full of Tears and Aſtoniſhment, to finde out his Brother hee goes, and they ſhare the ſorrow till Youth and Night parts them by drowſineſſe.</p>
+               <p>But the Edict, that it may not ſeem Scenical, or <hi>in terrorem,</hi> goes forth to all the Officers of the Houſe; neither to pro<g ref="char:EOLhyphen"/>vide nor lend any Neceſſary either to ſpend, or ſo much as to uſe. While the yong Innocent ſlept ſoundly, and upon the advantage ſorrow had given, long in the morning; drea<g ref="char:EOLhyphen"/>ming but of one Task at moſt, ſtealing a Bleſſing of his Mo<g ref="char:EOLhyphen"/>ther, either by Siſters or Brothers Interceſſion; or ſtealing at leaſt a means of begging it ere ſhee went to her Monaſte<g ref="char:EOLhyphen"/>ry, or himſelfe to Church, a much long'd for (and often wrangled for) contentment. But in ſtead of a Mother, hee is admitted to no converſe on her ſide but of a Step-Tutor, who again ſolicits, aggravates the perill of his Mothers an<g ref="char:EOLhyphen"/>ger, knowing indeed more then the little Duke did of it (as Cauſes can propheſie, and Counſellors know all that was al<g ref="char:EOLhyphen"/>ready.) <hi>Now was the time, if ever,</hi> ſayes <hi>Mountagu: Get to her this very preſent inſtant,</hi> (almoſt Sermon-time,) <hi>ſhee has eaſier Pro<g ref="char:EOLhyphen"/>poſals for you, but I cannot name them now.</hi> The Duke anſwers; <hi>Then will I; where ere I go, I muſt have not a quiet only for a while, but the exerciſe of my Religion; neither her Propoſals, and leſſe yours, promiſe that.</hi>
+               </p>
+               <p>The Coach went now by with his Mother for the Nun<g ref="char:EOLhyphen"/>nery: The backſide whereof made him warm: Mr. <hi>Moun<g ref="char:EOLhyphen"/>tague</hi> need not aggravate the ſadneſs of the ſpectacle, which as appear'd afterwards, was more like the laſt remote View, than the child could think of. Hee anſwered; <hi>Such as it is I
+<pb n="13" facs="tcp:114584:8"/>may thank you for, Sir; and tis but reaſon, What my Mother ſayes to me, I ſay to you; I pray be ſure I ſee you no more;</hi> and ſo ſhew'd his back. And to the laſt queſtion, <hi>Whither are you going, good Sir?</hi> The Duke anſwered (over the ſhoulder) <hi>To Church.</hi> Where hee was indeed ſomewhat ſadder than be<g ref="char:EOLhyphen"/>came the cheerfullneſſe of the reſt of the Congregation: But ere night we all pardoned him, finding much of its cauſe the ſtory which we knew not then, and beſides that a great deale of Augurie which hee could expreſlie then know: for after Sermon hee had a (No-Sunday) thought lay on him to finde a Dinner: to the Cooks he muſt ſend; neither Meat, Wine, Bread, Napkin, nor diet to bee had elſe; ſo heavy, ſo generall the Proſcription.</p>
+               <p>Yet after Evening Prayer he hop'd one interval of content, by his Mothers abſence to goe ſee his Siſter. The newes of his adventure frights her poore childe into Teares and ſhrikes; and though the viſitant was by his ſervant named a Gentleman onely, yet ſhee ſtarts up, and cries out, <hi>Oh God, my Brother! Oh me! my Mother! I am undone for ever! What ſhall I doe?</hi> Not one among her attendants old or yong, could anſwer her but in Teares and ſhrikes as impotent. The poore Duke attends; the meſſenger diſſembles their poſtures till he was got farther off. Ere long home, was the Queene come, and how full by this time ſhe was of his Re<g ref="char:EOLhyphen"/>ply to Mr. <hi>Mountague,</hi> a new advance of the ſentence ſhewes; a Groom comes up at 8, or 9, at night to know what he ſhould do with the Dukes two Horſes: the Comptroler was come with a charge to put them out inſtantly: The Clowne pleaded, <hi>To morrow would be time enough; Now 'twas too late:</hi> with a great oath or two, the yong Comptroller re<g ref="char:EOLhyphen"/>plies, <hi>Yes, and I ſhall be out of my place ere morning.</hi>
+               </p>
+               <p>The reſolutions on Munday of the Duke were to give way to this Paſſion; and in order to it ſince his verball Paſſe
+<pb n="14" facs="tcp:114584:9"/>was given him on Saturday night, <hi>Dee what you pleaſe: onely ſee not my face:</hi> he would not be ſo neare his Mother (all the while hee was providing neceſſaries wanting for a <hi>Germanie</hi> journey,) but retire to Mr. <hi>Crofts</hi> his houſe a while, a little out of the way, whence he might beg a grant to bee admit<g ref="char:EOLhyphen"/>ted to take leave. The Queen heares of this alſo: checks <hi>Crofts</hi> for now ſeeming willing to receive him, whom ſhee has often commanded to invite. The like penaltie almoſt lay on him if he lent him his houſe: he tells the Duke, and ſubmits however to his pleaſure. The Duke thankes him, but would not diſpleaſe her ſo much: and ſo reſolves after Dinner, when the Queene of France was to come, (and it would bee uncomely for him to bee in the houſe, and not waite on h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r; as in his Mothers lodgings hee might not) to goe over the water and viſit my Lord <hi>H.</hi> but even in that there would be a danger to the good Lord from <hi>London:</hi> yet conſidering there was great odds betweene his and his Bro<g ref="char:EOLhyphen"/>thers preſence, hee adventured, though the deliberations made it ſomewhat over late: but there grew on an occaſion, that the next night he was to lie there alſo, for there was no longer ſtaying in the <hi>Palais</hi> royall</p>
+               <p>The Lord and his Lady cannot refuſe (a double exile, for his Fathers and his owne Religion, and for his owne crime loyaltie) to admit ſuch a Gueſt, while hee can provide for his Voyage, for which t'was preſum'd he could find but two Horſes, and the relikes of his new-given 10 l. for the monthly privy purſe.</p>
+               <p>We were laſt night in ſome apprehenſions too of danger by reaſon of the ſituation of the houſe, alone in the utmoſt <hi>Fauxbourgs,</hi> from either the zealots welwillers to the hor<g ref="char:EOLhyphen"/>ribly and notoriouſly diſappointed; or from the diſrelliſh of the Courts that might happen. But all is well to day, ſaving that his abode there is not yet ſo known, but that
+<pb n="15" facs="tcp:114584:9"/>divers of each French Religion thinke hee remov'd from the <hi>Palais</hi> to the <hi>Jeſuites</hi> College: all things being there ſo con<g ref="char:EOLhyphen"/>fidently ready long agone, and the deſires of both Queens ſo concentrally tending to that deſigne, even ſince the perem<g ref="char:EOLhyphen"/>ptory commands of his Brother from <hi>Coloigne</hi> triplicated to him, and ſeconded with divers fince.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>December,</hi> 5.</date>
+                  </dateline>
+               </opener>
+               <p>On Munday the Queene had not forgot her ſevere threat and interdict to the Duke: yet having taken all the courſes ſhee could finde in her owne Spheare, had it ſeems enga<g ref="char:EOLhyphen"/>ged the Queene of <hi>France</hi> to try once more her Authority with him. But the expectation of her comming to the <hi>Palais</hi> was diverſly interpreted, ſome imagined it was to make the Dukes peace; ſome that ſhee might retract his reſolution by freſh aſſaults; ſome to ſhew him how little he muſt look for the favour of their preſence: but his High<g ref="char:EOLhyphen"/>neſſe could not endure the uncoutheneſſe of his confine<g ref="char:EOLhyphen"/>ment to his chamber, nor car'd much to hazzard the ſight of the Queen of <hi>France,</hi> he had been ſo fearfully aſſaulted of late.</p>
+               <p>But ſo it was, that ſo ſoone as ſhee came, ſhee ſent her ſon the Duke of <hi>Anjou</hi> to viſit him, who returned with newes he was not at home: The Queene of <hi>France</hi> ſent then his Governour to enquire where he was, and having heard, ſent him immediately over to the Lord <hi>H.</hi> to labour to bend him to the Queens reſolution for him, and the <hi>Jeſuites</hi> College was vehemently preſs'd againe. To the Kings con<g ref="char:EOLhyphen"/>trary command, the Marqueſſe (Duke of <hi>Anjou</hi> his Gover<g ref="char:EOLhyphen"/>nour) replied with the greateſt advantage of his owne parts, that it belonged to the Queen to diſpoſe of her ſon ſince his Fathers Death entirely; he diſputed whether he was in his Brothers power, onely for being his Soveraigne: and the diſcourſe growing now ſomewhat publicker, and the Lords ioyning in with the Duke, the Marqueſs had now his match;
+<pb n="16" facs="tcp:114584:10"/>and the debating that ill favoured nicety of Authority be<g ref="char:EOLhyphen"/>tweene Queen Mother, and Brother King, was ſo agita<g ref="char:EOLhyphen"/>ted by the Engliſh, that the French Gentleman, a man of huge parts indeed, was put out of hopes of prevayling in his Errand. The Queen, in confidence of her <hi>Envoyè,</hi> expects he ſhould bring her home entire newes of the change of the yong Prince his mind, and till almoſt 8. ſhee tarried for him there; but the report of the Diſcourſe did ſoone ſatisfie her, no alteration could be made in his Reſolutions.</p>
+               <p>The next day therefore a Report is rais'd how uncivilly the Queene of <hi>France</hi> her Meſſage was receiv'd with affront, &amp; the laſt ſtep of alienation and diſtance between the Queen and her Son came to the height: The great Palace of <hi>Cardi<g ref="char:EOLhyphen"/>nall Richelieu</hi> is not big enough for theſe two great Hearts ex<g ref="char:EOLhyphen"/>tracted from <hi>Henry</hi> the 4.</p>
+               <p>Since his departure all things are better then we imagin'd, ſave that the preſumption they had of him heretofore is not yet worn away. It laſted to my knowledge till Thurſday, in ſo great a ſtrength of Tumour, that one of the French Mini<g ref="char:EOLhyphen"/>ſters aſſured an Engliſhman that came to viſit him, that the Duke was for certaine in the <hi>Jeſuites</hi> College. The Duke had made a Reſolution that would have confuted the very Relikes of that miſtake, by an intention to have come every day to Prayers to us, but becauſe that might perchance have aggravated the heat, and lookt like a freſh affront, it was adviſed to be omitted.</p>
+               <p>Wee begin now, ſince I began writing, to bee aſſured the Paſſion begins to abate: The Queen they ſay, ha's condeſcen<g ref="char:EOLhyphen"/>ded to give him leave to go with my Lord of <hi>Ormond,</hi> and it is hoped may admit him to beg her bleſſing: which makes my Letter ſomewhat the ſhorter: and I preſume you wil be content to goe to the burying of paſt four circumſtances as ſoone as may bee with the Vindication of the Dukes ſincere and heroike conſtancy.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
